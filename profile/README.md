@@ -1,6 +1,6 @@
 # SpecifAI
 
-<p align="center"><a href="https://specifai.me" target="_blank" rel="noopener noreferrer"><img width="300" src="./assets/logo.jpg" alt="Specifai logo"></a></p>
+<p align="center"><a href="https://specifai.me" target="_blank" rel="noopener noreferrer"><img width="300" src="../assets/logo.jpg" alt="Specifai logo"></a></p>
 
 ## Description succincte du projet
 
